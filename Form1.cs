@@ -47,7 +47,6 @@ namespace Karimova_pr7_IT
         }
       }
       int max=-100000000, min;
-      int[] mas_min_el = new int[5];
         for(int b = 0; b<5; b++)
         {
           min = a[b, 0];
